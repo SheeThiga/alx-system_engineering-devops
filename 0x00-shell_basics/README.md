@@ -6,4 +6,9 @@ prints the absolute path name of the current working director
 # script 2
 File: 1-listit
 
-Display the contents list of your current directory
+Display the contents list of your current director
+
+# script 3
+File: 2-bring_me_home
+
+changes the working directory to the user’s home directory
