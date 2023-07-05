@@ -11,4 +11,9 @@ Display the contents list of your current director
 # script 3
 File: 2-bring_me_home
 
-changes the working directory to the user’s home directory
+changes the working directory to the user’s home director
+
+# script 4
+File: 3-listfiles
+
+Display current directory contents in a long format
