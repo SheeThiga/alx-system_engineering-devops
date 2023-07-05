@@ -17,3 +17,8 @@ changes the working directory to the user’s home director
 File: 3-listfiles
 
 Display current directory contents in a long format
+
+# script 5
+File: 4-listmorefiles
+
+Display current directory contents, including hidden files (starting with .). Use the long format
