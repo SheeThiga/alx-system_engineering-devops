@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod ug+r,o+r hello
+sudo iichmod ug+x,o+r hello
